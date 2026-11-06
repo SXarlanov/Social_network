@@ -7,3 +7,4 @@
 # cat                                     читает файлы
 # git clone                               склонировать
 # path('', include('posts.urls'))         подключения нового приложения (посты)
+# ALTER TABLE movies ADD COLUMN 'gross' DECIMAL
