@@ -8,3 +8,7 @@
 # git clone                               склонировать
 # path('', include('posts.urls'))         подключения нового приложения (посты)
 # ALTER TABLE movies ADD COLUMN 'gross' DECIMAL
+# source .new_venv/Scripts/activate       активация вирт окружения
+# python3 -m venv .new_venv               установка вирт окружения
+# pip freeze                              посмотреть зависимости
+# pip install -r requirement.txt          установить зависимости из файла
